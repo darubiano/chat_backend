@@ -14,7 +14,6 @@ const obtenerChat = async (req, res) =>{
         mensajes:last30
     });
 }
-
 module.exports = {
     obtenerChat
 }
